@@ -6,7 +6,8 @@
 2.Перекинуть туда SkyDeck.exe
 3. Запустить и настроить под себя
 
-Программа сама будет скачивать обнову и уведомлять вас о ней
+Программа сама будет скачивать обнову и уведомлять вас о ней.
+Обновы она берет от сюда https://github.com/KDtime/Deck-by-KDtime
 
 <img width="1208" height="1175" alt="photo_2026-11-23_14-55-48" src="https://github.com/user-attachments/assets/c62fb017-64fe-4364-8793-d083bcf94007" />
 <img width="650" height="510" alt="photo_2026-11-23_14-56-11" src="https://github.com/user-attachments/assets/d51d33ea-0dc7-488d-a57d-0480deecbe02" />
